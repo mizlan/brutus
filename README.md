@@ -1,6 +1,10 @@
+<div align="center">
+
 # brutus
 
-Write. Test. Debug.
+write | test | debug
+
+</div>
 
 Copy the file over to somewhere easy to use. Add that directory to your path if not already there
 
