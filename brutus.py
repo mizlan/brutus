@@ -63,7 +63,7 @@ def main(args: argparse.Namespace):
     DELIMITER = args.d
 
     #
-    # get run command
+    # get run commands
     #
 
     run_cmds = list(map(shlex.split, RUNCMDFILE.readlines()))
