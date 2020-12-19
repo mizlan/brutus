@@ -97,6 +97,9 @@ def main(args: argparse.Namespace):
                     output += '\n'
                 outputfile.write(output)
 
-if __name__ == '__main__':
+def driver():
     args = get_args()
     main(args)
+
+if __name__ == '__main__':
+    driver()
